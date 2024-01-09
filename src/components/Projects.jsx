@@ -13,7 +13,7 @@ const Projects = () => {
       </h1>
       <p className="text-center py-8 ">Some of my projects</p>
       <div className="grid sm:grid-cols-2 gap-12">
-        <Projectitem img={tindogImg} title="Algorithms" />
+        <Projectitem img={tindogImg} title="Tinder for Dogs" />
         <Projectitem img={diceeImg} title="Dicee" />
         <Projectitem img={drumkitImg} title="Drumkit" />
         <Projectitem img={simonImg} title="Simon" />
